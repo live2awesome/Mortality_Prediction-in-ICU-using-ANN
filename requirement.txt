@@ -1,0 +1,7 @@
+textblob
+streamlit 
+newspaper
+pandas
+requests
+bs4 
+urllib
